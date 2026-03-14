@@ -1,5 +1,3 @@
-# cfdi-xml-to-excel
-Python script that extracts CFDI XML data and exports it to Excel.
 # CFDI XML to Excel Parser
 
 Python script developed to extract data from CFDI XML files and
